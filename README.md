@@ -2,4 +2,5 @@
 
 Dieses Repository enthält ein binderhub Repository für meine `sympy` Vorlesung in Bonn am 08.01.2020.
 
-Hier geht es zur Binderhub-Version dieses Repositories
+Hier geht es zur Binderhub-Version dieses Repository [![Binder](https://binderhub.astro.uni-bonn.de/badge_logo.svg)](https://binderhub.astro.uni-bonn.de/v2/gh/terben/sympy-Vorlesung_08_01_2020/master)
+

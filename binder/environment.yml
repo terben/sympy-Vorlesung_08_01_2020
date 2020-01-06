@@ -1,0 +1,8 @@
+name: sympy-tutorial
+
+dependencies:
+  - python>=3.7
+  - numpy
+  - matplotlib
+  - scipy
+  - sympy
